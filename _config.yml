@@ -27,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   igdc
+#disqus_shortname:   igdc
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -39,13 +39,13 @@ disqus_shortname:   igdc
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+#twitter:            username
+#facebook:           username
+github-url:         https://github.com/IGDC
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -53,7 +53,7 @@ instagram:          username
 #foursquare:        username
 steam:              igdc
 #dribbble:          username
-#youtube:           username
+youtube:            https://www.youtube.com/channel/UC1yih1DwtPy5-vaQq5yMYaA
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
