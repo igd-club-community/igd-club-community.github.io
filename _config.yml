@@ -1,14 +1,14 @@
 # Site
-title:              IGDC
-bio:                'Indie Game Development Club'
-description:        "IGDC is a Innopolis University club"
+title:              Indie GameDev Club
+bio:                'We are a community of people interested in game development, mainly focused on helping each other with game projects.'
+description:        "Indie Game Development Club of Innopolis University"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://igdc.github.io
+url:                http://localhost:4000
 
 # Jekyll
 #permalink:          /:title/
@@ -38,22 +38,22 @@ disqus_shortname:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            igdclub
+#facebook:           username
+github-url:         igd-club
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
+youtube-channel:   UC1yih1DwtPy5-vaQq5yMYaA
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
