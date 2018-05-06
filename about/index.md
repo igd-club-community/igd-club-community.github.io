@@ -33,7 +33,7 @@ We organize
 We are proud of
 ---------------
 
-- Organizing Global Game Jam 2018 site in Innopolis University
-- Participating in #notGDC conference
-- Hosting ProcJam 2017 talks
+- Organizing [Global Game Jam 2018](https://globalgamejam.org/2018/jam-sites/innopolis-university) site in Innopolis University
+- Participating in [#notGDC](http://www.notgdc.fun/) conference
+- Hosting [ProcJam 2017](http://www.procjam.com/) talks
 - Having so much wonderful people in our club :) 

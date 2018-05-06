@@ -15,13 +15,10 @@ Schedule
 For any questions
 -----------------
 
-**Egor Ivkov** - head of the club
-
-*gmail:* e.o.ivkov@gmail.com
-
-*telegram:* eadventurous
-
-*twitter:* egor_ivkov
+**Egor Ivkov** - head of the club  
+*gmail:* e.o.ivkov@gmail.com  
+*telegram:* eadventurous  
+*twitter:* egor_ivkov  
 
 Location
 ----------
