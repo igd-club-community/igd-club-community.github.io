@@ -9,8 +9,8 @@ comments: false
 Schedule
 ----------
 
-+ *Friday* - 8PM in Coworking at the 5th floor
-+ *Sunday* - 1PM in 303 room
+The schedule for 2018 Fall Semester can be found [here](https://docs.google.com/spreadsheets/d/12Lf2jtNC2TYUJndP_lMtCX7__iteChHzlzwkSe2o2G8/edit?usp=sharing).
+Exact dates and times of meetings are not known yet, but will be announced in advance.
 
 For any questions
 -----------------

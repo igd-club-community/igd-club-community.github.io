@@ -9,7 +9,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://igd-club.github.io
-
+#http://localhost:4000 
 # Jekyll
 #permalink:          /:title/
 #markdown:           kramdown
@@ -37,7 +37,7 @@ disqus_shortname:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:             e.o.ivkov@gmail.com
 twitter:            igdclub
 #facebook:           username
 github-url:         igd-club
@@ -61,6 +61,7 @@ youtube-channel:   UC1yih1DwtPy5-vaQq5yMYaA
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+telegram:          Ct-Xgg5G2uxXPm3AY2sNpQ
 
 # Gems
 gems:
