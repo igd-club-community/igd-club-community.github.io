@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Club
+title: About Us
 tags: [about]
 date: 2018-04-15
 comments: false

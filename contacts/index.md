@@ -17,9 +17,9 @@ Community
 ----------
 
 Request access to community chat:
-**Evgeny Ageev** - head of the club
-*gmail:* [johnramru@gmail.com](mailto:johnramru@gmail.com)
-*telegram:* [@johnramru](https://t.me/johnramru)
+**Evgeny Ageev** - head of the club  
+*gmail:* [johnramru@gmail.com](mailto:johnramru@gmail.com)  
+*telegram:* [@johnramru](https://t.me/johnramru) 
 
 Location
 ----------
