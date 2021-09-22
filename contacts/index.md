@@ -6,23 +6,22 @@ date: 2018-05-05
 comments: false
 ---
     
-Schedule
-----------
-
-The schedule for 2018 Fall Semester can be found [here](https://docs.google.com/spreadsheets/d/12Lf2jtNC2TYUJndP_lMtCX7__iteChHzlzwkSe2o2G8/edit?usp=sharing).
-Exact dates and times of meetings are not known yet, but will be announced in advance.
-
-For any questions
+IGD Company
 -----------------
 
-**Egor Ivkov** - head of the club  
-*gmail:* e.o.ivkov@gmail.com  
-*telegram:* eadventurous  
-*twitter:* egor_ivkov  
+**Anton Skudarnov** - CEO  
+*gmail:* [indiegamedev.club@gmail.com](mailto:indiegamedev.club@gmail.com)  
+*telegram:* [@DanMagor](https://t.me/DanMagor)  
+
+Community
+----------
+
+Request access to community chat:
+**Evgeny Ageev** - head of the club
+*gmail:* [johnramru@gmail.com](mailto:johnramru@gmail.com)
+*telegram:* [@johnramru](https://t.me/johnramru)
 
 Location
 ----------
 
-Russsia, Innopolis, 1 Universitetskaya St. 
-
-To get access to the university message organizers.
+Russsia, Innopolis, 7 Universitetskaya St., office 60 

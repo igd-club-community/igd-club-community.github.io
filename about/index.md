@@ -12,6 +12,11 @@ We are
 ---------------
 
 **Gamers at heart. Developers by vocation.**
+
+Innopolis SEZ game development start-up established in 2019
+
+**and**
+
 A community of people interested in GameDev, established in 2017 at Innopolis University.
 
 We strive
@@ -20,9 +25,19 @@ We strive
 **To create unique experiences and worlds.**
 To experiment with our own game ideas and concepts in our free time, because we love what we are doing.
 
-We organize
+As a company We Work On:
 ---------------
 
+- Hyper Casual games
+- Midcore Projects
+- Promo games (Web/Mobile/PC/VR)
+
+[Portfolio Link](https://docs.google.com/presentation/d/1A7Fwqdgim0CCeOIOXXNLIjDTJ97CrT8EpfkH1jKD-9g/edit?usp=sharing)
+
+As a community We organize:
+---------------
+
+- Conferences
 - GameJams
 - Workshops
 - Lectures
@@ -32,7 +47,7 @@ We organize
 
 We are proud of
 ---------------
-
+- Organizing [IGD Con 2020 & GGJ 2020](https://www.youtube.com/watch?v=KTmDcfpxVVk)
 - Organizing [Global Game Jam 2018](https://globalgamejam.org/2018/jam-sites/innopolis-university) site in Innopolis University
 - Participating in [#notGDC](http://www.notgdc.fun/) conference
 - Hosting [ProcJam 2017](http://www.procjam.com/) talks
