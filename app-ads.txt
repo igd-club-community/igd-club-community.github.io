@@ -145,8 +145,6 @@ appnexus.com,12964,RESELLER,f5ab79cb980f11d1
 pubmatic.com,156439,RESELLER,5d62403b186f2ace
 pubmatic.com,156344,RESELLER,5d62403b186f2ace
 indexexchange.com,184738,RESELLER
-
-
 mintegral.com, 21506, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
@@ -176,8 +174,6 @@ contextweb.com, 561913, RESELLER, 89ff185a4c4e857c
 pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 smartadserver.com, 3713, RESELLER
 axonix.com, 57869, RESELLER
-
-
 conversantmedia.com, 100308, RESELLER, 03113cd04947736d
 adform.com, 2671, RESELLER
 freewheel.tv, 1235183, RESELLER
